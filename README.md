@@ -5,8 +5,9 @@
   <img src=".github/screen2.png" width="49%" /> 
 </p>
 
-Take a screenshot every 60 seconds in low quality (but still enough to see what you were doing at the time).
-You are later able to watch what you worked on while the tracker was running.
+Become more productive by reviewing what you've been working on. This application runs in the background and creates low-resolution screenshots every 60 or so (can be changed) seconds. After a tough day full of work you can then watch what you've been doing. Maybe you find that you waste a surprisingly huge amount of time on random things.
+
+Why did I create this? It's a completely free alternative to the many screenshot trackers out there. It is very simple and hackable. It gets the job done!
 
 Dependencies:
 * ffmpeg (e.g. `brew install ffmpeg`)
