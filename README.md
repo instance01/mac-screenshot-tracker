@@ -1,4 +1,4 @@
-# Mac Screenshot Tracker
+# Simple Mac Screenshot Tracker
 
 <p float="left">
   <img src=".github/screen1.png" width="49%" />
@@ -9,7 +9,7 @@ Take a screenshot every 60 seconds in low quality (but still enough to see what 
 You are later able to watch what you worked on while the tracker was running.
 
 Dependencies:
-* ffmpeg (`e.g. brew install ffmpeg`)
+* ffmpeg (e.g. `brew install ffmpeg`)
 
 Usage:
 ```
