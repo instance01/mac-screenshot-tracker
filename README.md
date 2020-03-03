@@ -22,3 +22,4 @@ For scrolling through all captured screenshots I use: https://github.com/torum/I
 TODO:
 * Support for Linux, Windows. Should be trivial with ffmpeg, simply change the -f parameter (https://trac.ffmpeg.org/wiki/Capture/Desktop). Pull requests are welcome.
 * More options, flesh it out. This is more for hackers who want to tinker with it.
+* Statistics based on the application in the foreground.
